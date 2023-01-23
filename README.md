@@ -12,7 +12,7 @@
                 <img src="https://i.pinimg.com/280x280_RS/b8/80/5f/b8805ffaa5efeba06d0fe687392f18e7.jpg" alt="Mritunjay's Profile Picture" />
             </td>
             <td>
-                <h1 style="font-size:60px;">Mritunjay Raj</h1>
+                <h1 style="font-size:100px;">Mritunjay Raj</h1>
                 <p>🏠Place-<b>Bangalore</b></p>
                 <p>📞Mobile-<b>8969975927</b></p>
                 <p>✉️Email-<b>mritunjayraj2108@gmail.com</b></p>
