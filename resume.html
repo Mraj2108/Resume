@@ -39,7 +39,7 @@
     <ul>
         <li><h3>KRUPANIDHI DEGREE COLLEGE, BANGALORE</h3></li>
         <h5>Bachelor of Computer Application</h5>
-        <a href="Assets/Docs/BCA%20Marks%20sheet"><h3>70%</h3></a>
+        <a href="https://drive.google.com/drive/folders/1_pU-wIz5Yjk09NQKgPckA9flM9zZlz8i"><h3>70%</h3></a>
     </ul>
     <hr size="5" color="black">
     <h2>SKILLS</h2>
