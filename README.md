@@ -12,7 +12,7 @@
                 <a href="https://www.linkedin.com/in/mritunjay-raj-18a052231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoUl0mp7tS3mO5Sd6SVlI4A%3D%3D"><img src="Assets/Images/200x200.png" alt="Mritunjay's Profile Picture"/></a>
             </td>
             <td>
-                <a href="https://www.linkedin.com/in/mritunjay-raj-18a052231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsGppSCIfTXSkvxl5ydYQVw%3D%3D"><h1>Mritunjay Raj</h1></a>
+                <a href="https://www.linkedin.com/in/mritunjay-raj-18a052231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsGppSCIfTXSkvxl5ydYQVw%3D%3D"><h1 style="font-size:300%;">Mritunjay Raj</h1></a>
                 <p>🏠 Place-<b><a href="https://goo.gl/maps/WBRuBwrYNrgJGRFXA">Bangalore</a></b></p>
                 <p>📞 Mobile-<b><a href="tel:+918969975927">8969975927</a></b></p>
                 <p>✉️ Email-<b><a href="mailto:mritunjayraj2108@gmail.com">mritunjayraj2108@gmail.com</a></b></p>
