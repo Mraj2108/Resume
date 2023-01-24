@@ -14,7 +14,7 @@
             <td>
                 <h1 style="font-size:100px;">Mritunjay Raj</h1>
                 <p>🏠Place-<b>Bangalore</b></p>
-                <p>📞Mobile-<b>8969975927</b></p>
+                <p>📞Mobile-<b><a href="tel:8969975927">8969975927</a></b></p>
                 <p>✉️Email-<b><a href="mailto:mritunjayraj2108@gmail.com">mritunjayraj2108@gmail.com</a></b></p>
             </td>
         </tr>
