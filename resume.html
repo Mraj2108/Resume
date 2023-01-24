@@ -29,17 +29,17 @@
     <ul>
         <li><h3>ST. JOSEPH'S SR. SEC. SCHOOL</h3></li>
         <h5>Matriculation</h5>
-        <a href="Assets/Docs/10th/10th%20Marksheet.pdf"><h3>7 CGPA</h3></a>
+        <a href="#"><h3>7 CGPA</h3></a>
     </ul>
     <ul>
         <li><h3>RAMESHWAR COLLEGE</h3></li>
         <h5>PUC / Intermediate</h5>
-        <a href="Assets/Docs/PUC/12th%20Mark%20sheet.pdf"><h3>48℅</h3></a>
+        <a href="#"><h3>48℅</h3></a>
     </ul>
     <ul>
         <li><h3>KRUPANIDHI DEGREE COLLEGE, BANGALORE</h3></li>
         <h5>Bachelor of Computer Application</h5>
-        <a href="Assets/Docs/BCA%20Marks%20sheet"><h3>70%</h3></a>
+        <a href="#"><h3>70%</h3></a>
     </ul>
     <hr size="5" color="black">
     <h2>SKILLS</h2>
