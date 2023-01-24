@@ -34,7 +34,7 @@
     <ul>
         <li><h3>RAMESHWAR COLLEGE</h3></li>
         <h5>PUC / Intermediate</h5>
-        <a href="Assets/Docs/PUC/12th%20Mark%20sheet.pdf"><h3>48℅</h3></a>
+        <a href="https://drive.google.com/file/d/13_Y8jfwUdsVB7mDdTIjjJ6_8mdKamz-K/view?usp=share_link"><h3>48℅</h3></a>
     </ul>
     <ul>
         <li><h3>KRUPANIDHI DEGREE COLLEGE, BANGALORE</h3></li>
