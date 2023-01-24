@@ -9,7 +9,7 @@
     <table cellspacing="30">
         <tr>
             <td>
-                <img src="https://i.pinimg.com/280x280_RS/b8/80/5f/b8805ffaa5efeba06d0fe687392f18e7.jpg" alt="Mritunjay's Profile Picture" />
+                <img src="https://github.com/Mraj2108/Resume/blob/main/Assets/Images/pic%20500x500.png" alt="Mritunjay's Profile Picture" />
             </td>
             <td>
                 <h1 style="font-size:100px;">Mritunjay Raj</h1>
