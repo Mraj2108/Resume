@@ -13,9 +13,9 @@
             </td>
             <td>
                 <a href="https://www.linkedin.com/in/mritunjay-raj-18a052231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsGppSCIfTXSkvxl5ydYQVw%3D%3D"><h1 style="font-size:600%; color:black">Mritunjay Raj</h1></a>
-                <p>🏠 Place-<b><a href="https://goo.gl/maps/WBRuBwrYNrgJGRFXA">Bangalore</a></b></p>
-                <p>📞 Mobile-<b><a href="tel:+918969975927">8969975927</a></b></p>
-                <p>✉️ Email-<b><a href="mailto:mritunjayraj2108@gmail.com">mritunjayraj2108@gmail.com</a></b></p>
+                <p>🏠 Place-<b><a href="https://goo.gl/maps/WBRuBwrYNrgJGRFXA" target="_blank">Bangalore</a></b></p>
+                <p>📞 Mobile-<b><a href="tel:+918969975927" target="_blank">8969975927</a></b></p>
+                <p>✉️ Email-<b><a href="mailto:mritunjayraj2108@gmail.com" target="_blank">mritunjayraj2108@gmail.com</a></b></p>
             </td>
         </tr>
     </table>
@@ -65,7 +65,7 @@
         <li><h3>Boat Reservation System (Individual)</h3><p>This tool will enable the user to rent a boat. The user shall login to the system and check for availability of boat. The user specifies a type of boat
             and the journey date and time. The system shall check for the availability of the boat and rent the boat to the customer. The user can make
             payment Online.</p></li>
-        <a href="https://boatreservation.online/">Boat Reservation System</a>
+        <a href="https://boatreservation.online/" target="_blank">Boat Reservation System</a>
         <h4>Software Requirements:</h4>
         <p>Operating system : Windows/Linux.</p>
         <p>IDE: Visual Studio Code.</p>
