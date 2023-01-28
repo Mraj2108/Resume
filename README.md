@@ -29,12 +29,12 @@
     <ul>
         <li><h3>ST. JOSEPH'S SR. SEC. SCHOOL</h3></li>
         <h5>Matriculation</h5>
-        <a href="Resume/blob/main/10th.html" target="_blank"><h3>7 CGPA</h3></a>
+        <a href="main/10th.html" target="_blank"><h3>7 CGPA</h3></a>
     </ul>
     <ul>
         <li><h3>RAMESHWAR COLLEGE</h3></li>
         <h5>PUC / Intermediate</h5>
-        <a href="Resume/blob/main/12th.html" target="_blank"><h3>48℅</h3></a>
+        <a href="main/12th.html" target="_blank"><h3>48℅</h3></a>
     </ul>
     <ul>
         <li><h3>KRUPANIDHI DEGREE COLLEGE, BANGALORE</h3></li>
