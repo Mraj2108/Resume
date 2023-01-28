@@ -12,7 +12,7 @@
                 <a href="https://www.linkedin.com/in/mritunjay-raj-18a052231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoUl0mp7tS3mO5Sd6SVlI4A%3D%3D" target="_blank"><img src="Assets/Images/200x200.png" alt="Mritunjay's Profile Picture"/></a>
             </td>
             <td>
-                <a href="https://www.linkedin.com/in/mritunjay-raj-18a052231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsGppSCIfTXSkvxl5ydYQVw%3D%3D"><h1 style="font-size:600%; color:black" target="_blank">Mritunjay Raj</h1></a>
+                <a href="https://www.linkedin.com/in/mritunjay-raj-18a052231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsGppSCIfTXSkvxl5ydYQVw%3D%3D" target="_blank"><h1 style="font-size:600%; color:black" >Mritunjay Raj</h1></a>
                 <p>🏠 Place-<b><a href="https://goo.gl/maps/WBRuBwrYNrgJGRFXA" target="_blank">Bangalore</a></b></p>
                 <p>📞 Mobile-<b><a href="tel:+918969975927" target="_blank">8969975927</a></b></p>
                 <p>✉️ Email-<b><a href="mailto:mritunjayraj2108@gmail.com" target="_blank">mritunjayraj2108@gmail.com</a></b></p>
@@ -29,12 +29,12 @@
     <ul>
         <li><h3>ST. JOSEPH'S SR. SEC. SCHOOL</h3></li>
         <h5>Matriculation</h5>
-        <a href="main/10th.html" target="_blank"><h3>7 CGPA</h3></a>
+        <a href="https://github.com/Mraj2108/Resume/blob/main/10th.html" target="_blank"><h3>7 CGPA</h3></a>
     </ul>
     <ul>
         <li><h3>RAMESHWAR COLLEGE</h3></li>
         <h5>PUC / Intermediate</h5>
-        <a href="main/12th.html" target="_blank"><h3>48℅</h3></a>
+        <a href="https://github.com/Mraj2108/Resume/blob/main/12th.html" target="_blank"><h3>48℅</h3></a>
     </ul>
     <ul>
         <li><h3>KRUPANIDHI DEGREE COLLEGE, BANGALORE</h3></li>
