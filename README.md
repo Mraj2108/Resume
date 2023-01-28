@@ -2,7 +2,6 @@
 
 <head>
     <meta charset="UTF-8">
-    📑 My Resume
 </head>
 
 <body style="margin-top:70px;">
