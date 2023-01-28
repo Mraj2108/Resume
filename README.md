@@ -29,7 +29,7 @@
     <ul>
         <li><h3>ST. JOSEPH'S SR. SEC. SCHOOL</h3></li>
         <h5>Matriculation</h5>
-        <a href="#"><h3>7 CGPA</h3></a>
+        <a href="10th.html"><h3>7 CGPA</h3></a>
     </ul>
     <ul>
         <li><h3>RAMESHWAR COLLEGE</h3></li>
