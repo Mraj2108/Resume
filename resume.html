@@ -34,7 +34,7 @@
     <ul>
         <li><h3>RAMESHWAR COLLEGE</h3></li>
         <h5>PUC / Intermediate</h5>
-        <a href="#" target="_blank"><h3>48℅</h3></a>
+        <a href="12th.html" target="_blank"><h3>48℅</h3></a>
     </ul>
     <ul>
         <li><h3>KRUPANIDHI DEGREE COLLEGE, BANGALORE</h3></li>
