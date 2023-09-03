@@ -45,8 +45,8 @@
     <ul>
         <li><h3>Programming Languages:</h3><p>C, C++, Java, Python.</p></li>
         <li><h3>Operating Systems:</h3><p>Windows 7 Onward, macOS, Linux.</p></li>
-        <li><h3>Web Designing Languages:</h3><p>HTML, CSS, JS, BOOTSTRAP.</p></li>
-        <li><h3>Applications:</h3><p>MS Office 365, Tally, Adobe Creative Cloud, etc.</p></li>
+        <li><h3>Web Designing Languages:</h3><p>HTML, CSS, JS, BOOTSTRAP, WordPress.</p></li>
+        <li><h3>Applications:</h3><p>MS Office 365, Adobe Creative Cloud, Tally,etc.</p></li>
     </ul>
     <hr size="5" color="black">
     <h2>PROJECTS</h2>
@@ -82,8 +82,8 @@
     <h2>INTERESTS</h2>
     <ul>
         <li>Learning New Skills</li>
-        <li>Reading Books</li>
-        <li>Cooking Foods</li>
+        <li>Listening E-Books</li>
+        <li>Listening Music While Cooking Food</li>
     </ul>
 </body>
 
