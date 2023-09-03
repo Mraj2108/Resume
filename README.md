@@ -33,12 +33,12 @@
     <ul>
         <li><h3>RAMESHWAR COLLEGE</h3></li>
         <h5>PUC / Intermediate</h5>
-        <a href="https://github.com/Mraj2108/Resume/blob/main/12th.html" target="_blank"><h3>48℅</h3></a>
+        <a href="https://www.canva.com/design/DAFtascXTiI/PZXNq1dE60KRyJS6ZnydpA/view?utm_content=DAFtascXTiI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><h3>48℅</h3></a>
     </ul>
     <ul>
         <li><h3>KRUPANIDHI DEGREE COLLEGE, BANGALORE</h3></li>
         <h5>Bachelor of Computer Application</h5>
-        <a href="#" target="_blank"><h3>70%</h3></a>
+        <a href="https://www.canva.com/design/DAFtatD2YuM/8X6kCOVSVriR97jfkHvlWg/view?utm_content=DAFtatD2YuM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><h3>70%</h3></a>
     </ul>
     <hr size="5" color="black">
     <h2>SKILLS</h2>
