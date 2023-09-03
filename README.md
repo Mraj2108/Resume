@@ -28,7 +28,7 @@
     <ul>
         <li><h3>ST. JOSEPH'S SR. SEC. SCHOOL</h3></li>
         <h5>Matriculation</h5>
-        <a href="https://github.com/Mraj2108/Resume/blob/main/10th.html](https://www.canva.com/design/DAFtatJ5LyE/y0WZIQqg7uJW9MhBME9SPA/view?utm_content=DAFtatJ5LyE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFtatJ5LyE/y0WZIQqg7uJW9MhBME9SPA/view?utm_content=DAFtatJ5LyE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><h3>7 CGPA</h3></a>
+        <a href="https://www.canva.com/design/DAFtatJ5LyE/y0WZIQqg7uJW9MhBME9SPA/view?utm_content=DAFtatJ5LyE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><h3>7 CGPA</h3></a>
     </ul>
     <ul>
         <li><h3>RAMESHWAR COLLEGE</h3></li>
