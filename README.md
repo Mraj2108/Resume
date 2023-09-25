@@ -64,7 +64,6 @@
         <li><h3>Boat Reservation System (Individual)</h3><p>This tool will enable the user to rent a boat. The user shall login to the system and check for availability of boat. The user specifies a type of boat
             and the journey date and time. The system shall check for the availability of the boat and rent the boat to the customer. The user can make
             payment Online.</p></li>
-        <a href="https://boatreservation.online/" target="_blank">Boat Reservation System</a>
         <h4>Software Requirements:</h4>
         <p>Operating system : Windows/Linux.</p>
         <p>IDE: Visual Studio Code.</p>
